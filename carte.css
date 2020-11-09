@@ -12,7 +12,6 @@
     margin-left:350px;
     margin-top: -115px;
 }
-
 .b{
     background-image: url("img violet.jpg");
     border-style: solid;
@@ -24,12 +23,13 @@
 
 body{
     color: red;
+    padding-bottom: 400px;
 }
 a{
     background-color: yellow;
 }
 
-.titre{
+h1{
     font-size: 40px;
     margin-top: -100px;
     text-shadow: 10px  5px 5px black;
